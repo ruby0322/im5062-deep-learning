@@ -1,6 +1,9 @@
 # Deep Learning Homework 2: Innovations in CNN Architectures
 
+[Shared Notebook](https://colab.research.google.com/gist/ruby0322/e863614f8f4cbf4c93a2528629a18d2a/hw2.ipynb)
+
 This Jupyter Notebook, `DL_HW2_b10705016.ipynb`, embodies a comprehensive exploration into the realm of Convolutional Neural Network (CNN) architecture design and optimization. Situated within the academic framework of a deep learning course, this assignment transcends traditional architectural paradigms by reimagining and refining CNN structures. The endeavor not only revisits seminal architectures like AlexNet, LeNet, and ResNet but also pioneers the integration of novel architectural elements aimed at amplifying model performance and efficiency.
+
 
 ## Overview
 
