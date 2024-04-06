@@ -21,3 +21,9 @@ Embracing the elegance of simplicity, the notebook champions the use of global a
 ## Experimental Insights
 
 In an evaluation of model performance, our experiments showcased a remarkable advancement in accuracy metrics. A traditional CNN combined with a Multi-Layer Perceptron (MLP) model, serving as our baseline, achieved an accuracy of 76%. In contrast, the refined architecture proposed in this notebook, despite adhering to a stringent model size constraint of under 6MB, significantly outperformed the baseline by securing an 81% accuracy. This leap in performance, achieved without compromising on model compactness, underscores the effectiveness of the introduced architectural modifications and sets a new benchmark for efficient CNN design.
+
+## References
+
+- [https://www.youtube.com/watch?v=DkNIBBBvcPs](https://www.youtube.com/watch?v=DkNIBBBvcPs)
+- [https://medium.com/@chensheep1005/network-in-network-d847f9232846](https://medium.com/@chensheep1005/network-in-network-d847f9232846)
+- [https://medium.com/ching-i/%E5%8D%B7%E7%A9%8D%E7%A5%9E%E7%B6%93%E7%B6%B2%E7%B5%A1-cnn-%E7%B6%93%E5%85%B8%E6%A8%A1%E5%9E%8B-lenet-alexnet-vgg-nin-with-pytorch-code-84462d6cf60c](https://medium.com/ching-i/%E5%8D%B7%E7%A9%8D%E7%A5%9E%E7%B6%93%E7%B6%B2%E7%B5%A1-cnn-%E7%B6%93%E5%85%B8%E6%A8%A1%E5%9E%8B-lenet-alexnet-vgg-nin-with-pytorch-code-84462d6cf60c)
