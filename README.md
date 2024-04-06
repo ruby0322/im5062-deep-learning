@@ -49,7 +49,7 @@ This course aims to equip students with the knowledge and skills to:
 | 11   | 4/30 | Sequence to sequence learning: encoder-decoder            | Attention mechanism                                  |
 | 12   | 5/7  | Guest Lecturer (2): 柏駿資本管理公司 杜勇正博士          | HW3 announce                                         |
 | 13   | 5/14 | Transformer: Attention is all you need                    | BERT, GPT                                            |
-| 14   | 5/21 | Guest Lecturer (3):八維智能 陳珮華 營運長                 |                                                      |
+| 14   | 5/21 | Guest Lecturer (3): 八維智能 陳珮華 營運長                 |                                                      |
 | 15   | 5/28 | Project presentation                                      |                                                      |
 | 16   | 6/4  | Project presentation                                      |                                                      |
 
